@@ -21,11 +21,6 @@ Hasil menunjukkan model memiliki akurasi baik dengan **Mean Squared Error (MSE)*
 Random Forest Regression adalah salah satu metode pembelajaran mesin berbasis ensemble yang digunakan untuk memprediksi variabel target kontinu (seperti regresi). Metode ini adalah pengembangan dari Decision Tree Regression yang bertujuan meningkatkan akurasi dan mencegah masalah overfitting.
 
 ---
-
-## Kesimpulan
-Penelitian tentang C-MET dengan algoritma K-Prototype memberikan pendekatan yang kuat untuk mengelompokkan data ekspresi gen atau mutasi yang terkait dengan MET proto-oncogene. Dengan kemampuan untuk menangani atribut campuran, algoritma ini membantu mengidentifikasi pola data yang relevan, yang dapat mendukung pengembangan terapi berbasis molekuler dan pemahaman mendalam tentang mekanisme kanker.
-
----
 ## Lebih Lengkap Silakan Kunjungi
 1. File Code IPYNB https://github.com/daracantika/Tubes_Bioinformatika_Kelompok1_RA_Prediksi/blob/main/Kelompok1_Bioinformatika%20(1).ipynb
 2. Untuk output file "KlusteringC-MET.Rmd" dapat dilihat melalui tautan berikut.
