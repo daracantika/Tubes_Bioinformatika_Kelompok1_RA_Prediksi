@@ -33,6 +33,5 @@ EGFR (Epidermal Growth Factor Receptor) adalah protein yang berperan sebagai res
 2. Untuk output file yang lebih lengkap dapat dilihat melalui tautan berikut.
 https://drive.google.com/drive/folders/1L1pWZx9rEoSRN-SLJ8HVbRONEnE_fAI3
 3. Berikut kami lampirkan tautan video YouTube
-https://youtu.be/2vJpYevNmQ0
 4. Link Poster : 
 ---
