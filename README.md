@@ -30,7 +30,7 @@ EGFR (Epidermal Growth Factor Receptor) adalah protein yang berperan sebagai res
 ---
 ## Lebih Lengkap Silakan Kunjungi
 1. File Code IPYNB https://github.com/daracantika/Tubes_Bioinformatika_Kelompok1_RA_Prediksi/blob/main/Kelompok1_Bioinformatika%20(1).ipynb
-2. Untuk output file "KlusteringC-MET.Rmd" dapat dilihat melalui tautan berikut.
+2. Untuk output file yang lebih lengkap dapat dilihat melalui tautan berikut.
 https://drive.google.com/drive/folders/1L1pWZx9rEoSRN-SLJ8HVbRONEnE_fAI3
 3. Berikut kami lampirkan tautan video YouTube
 https://youtu.be/2vJpYevNmQ0
